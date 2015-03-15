@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hola. Este cddd ha sido compilado como parte del pase ${job_name}\nEsto es para la PoC con Lisette");
+    printf("Hello. This has been compile by job ${job_name}\nFor the a demo");
     return 1;
 }
