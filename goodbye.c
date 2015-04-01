@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Adiós. Este fichero ha sido compilado para el entorno ${bl} en el pase ${job_name}\n");
+    printf("Goodbye. This file has been compiled for environment ${bl} in de job ${job_name}\n");
     return 0;
-}
+}T
