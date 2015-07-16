@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello. This has been compiled by job ${job_name}\nFor the demo");
+    printf("Hello. This has been compiled by job with name ${job_name}\nFor the demo");
     return 1;
 }
